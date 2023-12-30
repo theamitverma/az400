@@ -1,4 +1,4 @@
 <?php
 echo 'Hello World - Again & Again';
-# echo date('MMYY');
+echo date("l jS \of F Y h:i:s A");
 ?>
